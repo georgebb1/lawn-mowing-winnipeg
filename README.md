@@ -1,4 +1,4 @@
-== README
+README
 
 A friend of mine asked me to create a website for his [lawn mowing Winnipeg](https://www.cleanrmow.com) business. I could put this together using Wordpress, but I'm very curious about trying Rails, as I heard a lot of great things about it.
 
