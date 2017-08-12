@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A friend of mine asked me to create a website for his [lawn mowing Winnipeg](https://www.cleanrmow.com) business. I could put this together using Wordpress, but I'm very curious about trying Rails, as I heard a lot of great things about it.
 
-Things you may want to cover:
+![lawn mowing](http://www.nseasonalservices.com/wp-content/uploads/2012/02/lawn-mowing.jpeg)
 
-* Ruby version
+There are a lot of things to learn, it's not easy, but it's a great challenge and I hope I can make it. I'm on a PC, I noticed a lot of differences between Rails on a PC and Rails on a Mac, however there are so many tutorials out there that it's impossible not to succeed if you take the time to learn how to do it properly.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+So I'm going to start right now and hopefully come back and share some of the things I learned in the process. Cheers.
